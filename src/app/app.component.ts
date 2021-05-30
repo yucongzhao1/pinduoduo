@@ -132,7 +132,7 @@ export class AppComponent {
   test(){
     console.log(this.dict['a']);
   }
-  handleselect(index:number){
-    this.selectedIndex = index;
-  }
+  // handleselect(index:number){
+  //   this.selectedIndex = index;
+  // }
 }
